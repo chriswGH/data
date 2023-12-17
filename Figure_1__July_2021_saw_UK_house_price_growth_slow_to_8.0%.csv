@@ -1,11 +1,4 @@
-Figure 1: July 2021 saw UK house price growth slow to 8.0%,
-"Annual house price rates of change for all dwellings, UK, January 2006 to July 2021",
-,
-Notes,"1. Not seasonally adjusted. 
-2. The [full UK House Price Index (HPI) release](https://www.gov.uk/government/collections/uk-house-price-index-reports) is available to download from HM Land Registry at GOV.UK."
-Unit,12-month percentage change
-,
-,12 month percentage change 
+date,unit
 2006 Jan,6.2
 2006 Feb,6.5
 2006 Mar,6.5
