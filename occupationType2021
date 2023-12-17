@@ -1,0 +1,298 @@
+areaCode,areaName,occupationType,value
+E09000001,City of London,"Managers, directors and senior officials",1104
+E09000001,City of London,Professional occupations,2349
+E09000001,City of London,Associate professional and technical occupations,1027
+E09000001,City of London,Administrative and secretarial occupations,267
+E09000001,City of London,Skilled trades occupations,97
+E09000001,City of London,"Caring, leisure and other service occupations",152
+E09000001,City of London,Sales and customer service occupations,122
+E09000001,City of London,"Process, plant and machine operatives",50
+E09000001,City of London,Elementary occupations,178
+E09000002,Barking and Dagenham,"Managers, directors and senior officials",7786
+E09000002,Barking and Dagenham,Professional occupations,15185
+E09000002,Barking and Dagenham,Associate professional and technical occupations,9279
+E09000002,Barking and Dagenham,Administrative and secretarial occupations,8798
+E09000002,Barking and Dagenham,Skilled trades occupations,10957
+E09000002,Barking and Dagenham,"Caring, leisure and other service occupations",10934
+E09000002,Barking and Dagenham,Sales and customer service occupations,7686
+E09000002,Barking and Dagenham,"Process, plant and machine operatives",8964
+E09000002,Barking and Dagenham,Elementary occupations,15000
+E09000003,Barnet,"Managers, directors and senior officials",31481
+E09000003,Barnet,Professional occupations,50534
+E09000003,Barnet,Associate professional and technical occupations,25626
+E09000003,Barnet,Administrative and secretarial occupations,16520
+E09000003,Barnet,Skilled trades occupations,14478
+E09000003,Barnet,"Caring, leisure and other service occupations",14342
+E09000003,Barnet,Sales and customer service occupations,10663
+E09000003,Barnet,"Process, plant and machine operatives",8394
+E09000003,Barnet,Elementary occupations,14137
+E09000004,Bexley,"Managers, directors and senior officials",14498
+E09000004,Bexley,Professional occupations,23417
+E09000004,Bexley,Associate professional and technical occupations,16138
+E09000004,Bexley,Administrative and secretarial occupations,15535
+E09000004,Bexley,Skilled trades occupations,12291
+E09000004,Bexley,"Caring, leisure and other service occupations",10333
+E09000004,Bexley,Sales and customer service occupations,8186
+E09000004,Bexley,"Process, plant and machine operatives",7430
+E09000004,Bexley,Elementary occupations,10155
+E09000005,Brent,"Managers, directors and senior officials",18700
+E09000005,Brent,Professional occupations,31402
+E09000005,Brent,Associate professional and technical occupations,19463
+E09000005,Brent,Administrative and secretarial occupations,13311
+E09000005,Brent,Skilled trades occupations,15838
+E09000005,Brent,"Caring, leisure and other service occupations",13901
+E09000005,Brent,Sales and customer service occupations,13423
+E09000005,Brent,"Process, plant and machine operatives",12932
+E09000005,Brent,Elementary occupations,22027
+E09000006,Bromley,"Managers, directors and senior officials",27845
+E09000006,Bromley,Professional occupations,43321
+E09000006,Bromley,Associate professional and technical occupations,25707
+E09000006,Bromley,Administrative and secretarial occupations,17733
+E09000006,Bromley,Skilled trades occupations,12787
+E09000006,Bromley,"Caring, leisure and other service occupations",11212
+E09000006,Bromley,Sales and customer service occupations,8498
+E09000006,Bromley,"Process, plant and machine operatives",5867
+E09000006,Bromley,Elementary occupations,9152
+E09000007,Camden,"Managers, directors and senior officials",18247
+E09000007,Camden,Professional occupations,35269
+E09000007,Camden,Associate professional and technical occupations,19193
+E09000007,Camden,Administrative and secretarial occupations,6330
+E09000007,Camden,Skilled trades occupations,3781
+E09000007,Camden,"Caring, leisure and other service occupations",6279
+E09000007,Camden,Sales and customer service occupations,5152
+E09000007,Camden,"Process, plant and machine operatives",2963
+E09000007,Camden,Elementary occupations,5299
+E09000008,Croydon,"Managers, directors and senior officials",24114
+E09000008,Croydon,Professional occupations,43348
+E09000008,Croydon,Associate professional and technical occupations,26739
+E09000008,Croydon,Administrative and secretarial occupations,19333
+E09000008,Croydon,Skilled trades occupations,15968
+E09000008,Croydon,"Caring, leisure and other service occupations",18250
+E09000008,Croydon,Sales and customer service occupations,13735
+E09000008,Croydon,"Process, plant and machine operatives",10765
+E09000008,Croydon,Elementary occupations,17155
+E09000009,Ealing,"Managers, directors and senior officials",24147
+E09000009,Ealing,Professional occupations,39697
+E09000009,Ealing,Associate professional and technical occupations,23951
+E09000009,Ealing,Administrative and secretarial occupations,14223
+E09000009,Ealing,Skilled trades occupations,15555
+E09000009,Ealing,"Caring, leisure and other service occupations",12912
+E09000009,Ealing,Sales and customer service occupations,12773
+E09000009,Ealing,"Process, plant and machine operatives",11767
+E09000009,Ealing,Elementary occupations,20000
+E09000010,Enfield,"Managers, directors and senior officials",18297
+E09000010,Enfield,Professional occupations,29475
+E09000010,Enfield,Associate professional and technical occupations,17729
+E09000010,Enfield,Administrative and secretarial occupations,13804
+E09000010,Enfield,Skilled trades occupations,14397
+E09000010,Enfield,"Caring, leisure and other service occupations",13986
+E09000010,Enfield,Sales and customer service occupations,10695
+E09000010,Enfield,"Process, plant and machine operatives",9440
+E09000010,Enfield,Elementary occupations,16041
+E09000011,Greenwich,"Managers, directors and senior officials",18826
+E09000011,Greenwich,Professional occupations,35907
+E09000011,Greenwich,Associate professional and technical occupations,21127
+E09000011,Greenwich,Administrative and secretarial occupations,11610
+E09000011,Greenwich,Skilled trades occupations,10735
+E09000011,Greenwich,"Caring, leisure and other service occupations",13290
+E09000011,Greenwich,Sales and customer service occupations,9173
+E09000011,Greenwich,"Process, plant and machine operatives",7183
+E09000011,Greenwich,Elementary occupations,15083
+E09000012,Hackney,"Managers, directors and senior officials",18646
+E09000012,Hackney,Professional occupations,40040
+E09000012,Hackney,Associate professional and technical occupations,27603
+E09000012,Hackney,Administrative and secretarial occupations,9468
+E09000012,Hackney,Skilled trades occupations,6468
+E09000012,Hackney,"Caring, leisure and other service occupations",9742
+E09000012,Hackney,Sales and customer service occupations,7191
+E09000012,Hackney,"Process, plant and machine operatives",4530
+E09000012,Hackney,Elementary occupations,10624
+E09000013,Hammersmith and Fulham,"Managers, directors and senior officials",18326
+E09000013,Hammersmith and Fulham,Professional occupations,29279
+E09000013,Hammersmith and Fulham,Associate professional and technical occupations,18574
+E09000013,Hammersmith and Fulham,Administrative and secretarial occupations,6900
+E09000013,Hammersmith and Fulham,Skilled trades occupations,4493
+E09000013,Hammersmith and Fulham,"Caring, leisure and other service occupations",6803
+E09000013,Hammersmith and Fulham,Sales and customer service occupations,5004
+E09000013,Hammersmith and Fulham,"Process, plant and machine operatives",2711
+E09000013,Hammersmith and Fulham,Elementary occupations,6006
+E09000014,Haringey,"Managers, directors and senior officials",17168
+E09000014,Haringey,Professional occupations,33738
+E09000014,Haringey,Associate professional and technical occupations,21842
+E09000014,Haringey,Administrative and secretarial occupations,9189
+E09000014,Haringey,Skilled trades occupations,11265
+E09000014,Haringey,"Caring, leisure and other service occupations",10419
+E09000014,Haringey,Sales and customer service occupations,8084
+E09000014,Haringey,"Process, plant and machine operatives",6027
+E09000014,Haringey,Elementary occupations,16651
+E09000015,Harrow,"Managers, directors and senior officials",17524
+E09000015,Harrow,Professional occupations,31409
+E09000015,Harrow,Associate professional and technical occupations,14526
+E09000015,Harrow,Administrative and secretarial occupations,12204
+E09000015,Harrow,Skilled trades occupations,12184
+E09000015,Harrow,"Caring, leisure and other service occupations",8624
+E09000015,Harrow,Sales and customer service occupations,9061
+E09000015,Harrow,"Process, plant and machine operatives",7806
+E09000015,Harrow,Elementary occupations,11702
+E09000016,Havering,"Managers, directors and senior officials",15438
+E09000016,Havering,Professional occupations,24339
+E09000016,Havering,Associate professional and technical occupations,16717
+E09000016,Havering,Administrative and secretarial occupations,16701
+E09000016,Havering,Skilled trades occupations,14375
+E09000016,Havering,"Caring, leisure and other service occupations",10294
+E09000016,Havering,Sales and customer service occupations,8162
+E09000016,Havering,"Process, plant and machine operatives",8058
+E09000016,Havering,Elementary occupations,10697
+E09000017,Hillingdon,"Managers, directors and senior officials",18524
+E09000017,Hillingdon,Professional occupations,30087
+E09000017,Hillingdon,Associate professional and technical occupations,18036
+E09000017,Hillingdon,Administrative and secretarial occupations,14401
+E09000017,Hillingdon,Skilled trades occupations,13152
+E09000017,Hillingdon,"Caring, leisure and other service occupations",12044
+E09000017,Hillingdon,Sales and customer service occupations,10772
+E09000017,Hillingdon,"Process, plant and machine operatives",10752
+E09000017,Hillingdon,Elementary occupations,15035
+E09000018,Hounslow,"Managers, directors and senior officials",17914
+E09000018,Hounslow,Professional occupations,27755
+E09000018,Hounslow,Associate professional and technical occupations,17668
+E09000018,Hounslow,Administrative and secretarial occupations,12160
+E09000018,Hounslow,Skilled trades occupations,12138
+E09000018,Hounslow,"Caring, leisure and other service occupations",11345
+E09000018,Hounslow,Sales and customer service occupations,11117
+E09000018,Hounslow,"Process, plant and machine operatives",10067
+E09000018,Hounslow,Elementary occupations,18636
+E09000019,Islington,"Managers, directors and senior officials",17439
+E09000019,Islington,Professional occupations,39312
+E09000019,Islington,Associate professional and technical occupations,22879
+E09000019,Islington,Administrative and secretarial occupations,7333
+E09000019,Islington,Skilled trades occupations,4945
+E09000019,Islington,"Caring, leisure and other service occupations",6756
+E09000019,Islington,Sales and customer service occupations,5601
+E09000019,Islington,"Process, plant and machine operatives",3496
+E09000019,Islington,Elementary occupations,7211
+E09000020,Kensington and Chelsea,"Managers, directors and senior officials",18485
+E09000020,Kensington and Chelsea,Professional occupations,19186
+E09000020,Kensington and Chelsea,Associate professional and technical occupations,12294
+E09000020,Kensington and Chelsea,Administrative and secretarial occupations,4117
+E09000020,Kensington and Chelsea,Skilled trades occupations,2221
+E09000020,Kensington and Chelsea,"Caring, leisure and other service occupations",5064
+E09000020,Kensington and Chelsea,Sales and customer service occupations,3182
+E09000020,Kensington and Chelsea,"Process, plant and machine operatives",1678
+E09000020,Kensington and Chelsea,Elementary occupations,3214
+E09000021,Kingston upon Thames,"Managers, directors and senior officials",14674
+E09000021,Kingston upon Thames,Professional occupations,23933
+E09000021,Kingston upon Thames,Associate professional and technical occupations,13140
+E09000021,Kingston upon Thames,Administrative and secretarial occupations,7171
+E09000021,Kingston upon Thames,Skilled trades occupations,5769
+E09000021,Kingston upon Thames,"Caring, leisure and other service occupations",5947
+E09000021,Kingston upon Thames,Sales and customer service occupations,5296
+E09000021,Kingston upon Thames,"Process, plant and machine operatives",2854
+E09000021,Kingston upon Thames,Elementary occupations,5364
+E09000022,Lambeth,"Managers, directors and senior officials",25695
+E09000022,Lambeth,Professional occupations,55140
+E09000022,Lambeth,Associate professional and technical occupations,34580
+E09000022,Lambeth,Administrative and secretarial occupations,12564
+E09000022,Lambeth,Skilled trades occupations,9463
+E09000022,Lambeth,"Caring, leisure and other service occupations",13130
+E09000022,Lambeth,Sales and customer service occupations,8956
+E09000022,Lambeth,"Process, plant and machine operatives",6187
+E09000022,Lambeth,Elementary occupations,17104
+E09000023,Lewisham,"Managers, directors and senior officials",20155
+E09000023,Lewisham,Professional occupations,41888
+E09000023,Lewisham,Associate professional and technical occupations,27269
+E09000023,Lewisham,Administrative and secretarial occupations,11892
+E09000023,Lewisham,Skilled trades occupations,10473
+E09000023,Lewisham,"Caring, leisure and other service occupations",13363
+E09000023,Lewisham,Sales and customer service occupations,9774
+E09000023,Lewisham,"Process, plant and machine operatives",6369
+E09000023,Lewisham,Elementary occupations,14530
+E09000024,Merton,"Managers, directors and senior officials",17692
+E09000024,Merton,Professional occupations,29411
+E09000024,Merton,Associate professional and technical occupations,16337
+E09000024,Merton,Administrative and secretarial occupations,9159
+E09000024,Merton,Skilled trades occupations,9115
+E09000024,Merton,"Caring, leisure and other service occupations",8623
+E09000024,Merton,Sales and customer service occupations,7030
+E09000024,Merton,"Process, plant and machine operatives",5202
+E09000024,Merton,Elementary occupations,9496
+E09000025,Newham,"Managers, directors and senior officials",15522
+E09000025,Newham,Professional occupations,32704
+E09000025,Newham,Associate professional and technical occupations,19608
+E09000025,Newham,Administrative and secretarial occupations,12621
+E09000025,Newham,Skilled trades occupations,16496
+E09000025,Newham,"Caring, leisure and other service occupations",14189
+E09000025,Newham,Sales and customer service occupations,14529
+E09000025,Newham,"Process, plant and machine operatives",11822
+E09000025,Newham,Elementary occupations,25954
+E09000026,Redbridge,"Managers, directors and senior officials",18627
+E09000026,Redbridge,Professional occupations,34456
+E09000026,Redbridge,Associate professional and technical occupations,17250
+E09000026,Redbridge,Administrative and secretarial occupations,14551
+E09000026,Redbridge,Skilled trades occupations,12846
+E09000026,Redbridge,"Caring, leisure and other service occupations",9843
+E09000026,Redbridge,Sales and customer service occupations,10747
+E09000026,Redbridge,"Process, plant and machine operatives",9229
+E09000026,Redbridge,Elementary occupations,14078
+E09000027,Richmond upon Thames,"Managers, directors and senior officials",23031
+E09000027,Richmond upon Thames,Professional occupations,30417
+E09000027,Richmond upon Thames,Associate professional and technical occupations,17549
+E09000027,Richmond upon Thames,Administrative and secretarial occupations,6935
+E09000027,Richmond upon Thames,Skilled trades occupations,4478
+E09000027,Richmond upon Thames,"Caring, leisure and other service occupations",5468
+E09000027,Richmond upon Thames,Sales and customer service occupations,3749
+E09000027,Richmond upon Thames,"Process, plant and machine operatives",2187
+E09000027,Richmond upon Thames,Elementary occupations,3752
+E09000028,Southwark,"Managers, directors and senior officials",23109
+E09000028,Southwark,Professional occupations,51143
+E09000028,Southwark,Associate professional and technical occupations,28878
+E09000028,Southwark,Administrative and secretarial occupations,11443
+E09000028,Southwark,Skilled trades occupations,8030
+E09000028,Southwark,"Caring, leisure and other service occupations",12816
+E09000028,Southwark,Sales and customer service occupations,8705
+E09000028,Southwark,"Process, plant and machine operatives",5990
+E09000028,Southwark,Elementary occupations,16833
+E09000029,Sutton,"Managers, directors and senior officials",14604
+E09000029,Sutton,Professional occupations,25047
+E09000029,Sutton,Associate professional and technical occupations,14218
+E09000029,Sutton,Administrative and secretarial occupations,11239
+E09000029,Sutton,Skilled trades occupations,10383
+E09000029,Sutton,"Caring, leisure and other service occupations",9022
+E09000029,Sutton,Sales and customer service occupations,6802
+E09000029,Sutton,"Process, plant and machine operatives",5380
+E09000029,Sutton,Elementary occupations,7527
+E09000030,Tower Hamlets,"Managers, directors and senior officials",20628
+E09000030,Tower Hamlets,Professional occupations,49021
+E09000030,Tower Hamlets,Associate professional and technical occupations,27819
+E09000030,Tower Hamlets,Administrative and secretarial occupations,11184
+E09000030,Tower Hamlets,Skilled trades occupations,7508
+E09000030,Tower Hamlets,"Caring, leisure and other service occupations",9276
+E09000030,Tower Hamlets,Sales and customer service occupations,10470
+E09000030,Tower Hamlets,"Process, plant and machine operatives",6949
+E09000030,Tower Hamlets,Elementary occupations,12537
+E09000031,Waltham Forest,"Managers, directors and senior officials",17473
+E09000031,Waltham Forest,Professional occupations,32185
+E09000031,Waltham Forest,Associate professional and technical occupations,21194
+E09000031,Waltham Forest,Administrative and secretarial occupations,11608
+E09000031,Waltham Forest,Skilled trades occupations,14037
+E09000031,Waltham Forest,"Caring, leisure and other service occupations",10474
+E09000031,Waltham Forest,Sales and customer service occupations,9284
+E09000031,Waltham Forest,"Process, plant and machine operatives",8341
+E09000031,Waltham Forest,Elementary occupations,15776
+E09000032,Wandsworth,"Managers, directors and senior officials",35827
+E09000032,Wandsworth,Professional occupations,61870
+E09000032,Wandsworth,Associate professional and technical occupations,37329
+E09000032,Wandsworth,Administrative and secretarial occupations,13285
+E09000032,Wandsworth,Skilled trades occupations,7838
+E09000032,Wandsworth,"Caring, leisure and other service occupations",11073
+E09000032,Wandsworth,Sales and customer service occupations,8031
+E09000032,Wandsworth,"Process, plant and machine operatives",5178
+E09000032,Wandsworth,Elementary occupations,10011
+E09000033,Westminster,"Managers, directors and senior officials",22858
+E09000033,Westminster,Professional occupations,31136
+E09000033,Westminster,Associate professional and technical occupations,17588
+E09000033,Westminster,Administrative and secretarial occupations,6750
+E09000033,Westminster,Skilled trades occupations,3481
+E09000033,Westminster,"Caring, leisure and other service occupations",6187
+E09000033,Westminster,Sales and customer service occupations,5211
+E09000033,Westminster,"Process, plant and machine operatives",2781
+E09000033,Westminster,Elementary occupations,5750
