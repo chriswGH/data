@@ -1,0 +1,133 @@
+areaCode,borough,hoursWorked,hours
+E09000001,City of London,Part-time: 15 hours or less worked,386
+E09000001,City of London,Part-time: 16 to 30 hours worked,499
+E09000001,City of London,Full-time: 31 to 48 hours worked,2760
+E09000001,City of London,Full-time: 49 or more hours worked,1706
+E09000002,Barking and Dagenham,Part-time: 15 hours or less worked,10801
+E09000002,Barking and Dagenham,Part-time: 16 to 30 hours worked,20086
+E09000002,Barking and Dagenham,Full-time: 31 to 48 hours worked,55490
+E09000002,Barking and Dagenham,Full-time: 49 or more hours worked,8211
+E09000003,Barnet,Part-time: 15 hours or less worked,23760
+E09000003,Barnet,Part-time: 16 to 30 hours worked,35920
+E09000003,Barnet,Full-time: 31 to 48 hours worked,101785
+E09000003,Barnet,Full-time: 49 or more hours worked,24710
+E09000004,Bexley,Part-time: 15 hours or less worked,11593
+E09000004,Bexley,Part-time: 16 to 30 hours worked,20988
+E09000004,Bexley,Full-time: 31 to 48 hours worked,73640
+E09000004,Bexley,Full-time: 49 or more hours worked,11764
+E09000005,Brent,Part-time: 15 hours or less worked,18564
+E09000005,Brent,Part-time: 16 to 30 hours worked,30956
+E09000005,Brent,Full-time: 31 to 48 hours worked,93506
+E09000005,Brent,Full-time: 49 or more hours worked,17971
+E09000006,Bromley,Part-time: 15 hours or less worked,16708
+E09000006,Bromley,Part-time: 16 to 30 hours worked,27359
+E09000006,Bromley,Full-time: 31 to 48 hours worked,97180
+E09000006,Bromley,Full-time: 49 or more hours worked,20875
+E09000007,Camden,Part-time: 15 hours or less worked,11879
+E09000007,Camden,Part-time: 16 to 30 hours worked,15126
+E09000007,Camden,Full-time: 31 to 48 hours worked,55453
+E09000007,Camden,Full-time: 49 or more hours worked,20053
+E09000008,Croydon,Part-time: 15 hours or less worked,20311
+E09000008,Croydon,Part-time: 16 to 30 hours worked,35258
+E09000008,Croydon,Full-time: 31 to 48 hours worked,114645
+E09000008,Croydon,Full-time: 49 or more hours worked,19191
+E09000009,Ealing,Part-time: 15 hours or less worked,19422
+E09000009,Ealing,Part-time: 16 to 30 hours worked,31572
+E09000009,Ealing,Full-time: 31 to 48 hours worked,103442
+E09000009,Ealing,Full-time: 49 or more hours worked,20590
+E09000010,Enfield,Part-time: 15 hours or less worked,17931
+E09000010,Enfield,Part-time: 16 to 30 hours worked,32888
+E09000010,Enfield,Full-time: 31 to 48 hours worked,79164
+E09000010,Enfield,Full-time: 49 or more hours worked,13881
+E09000011,Greenwich,Part-time: 15 hours or less worked,13717
+E09000011,Greenwich,Part-time: 16 to 30 hours worked,24120
+E09000011,Greenwich,Full-time: 31 to 48 hours worked,87019
+E09000011,Greenwich,Full-time: 49 or more hours worked,18081
+E09000012,Hackney,Part-time: 15 hours or less worked,14022
+E09000012,Hackney,Part-time: 16 to 30 hours worked,25452
+E09000012,Hackney,Full-time: 31 to 48 hours worked,76457
+E09000012,Hackney,Full-time: 49 or more hours worked,18379
+E09000013,Hammersmith and Fulham,Part-time: 15 hours or less worked,9497
+E09000013,Hammersmith and Fulham,Part-time: 16 to 30 hours worked,13108
+E09000013,Hammersmith and Fulham,Full-time: 31 to 48 hours worked,56608
+E09000013,Hammersmith and Fulham,Full-time: 49 or more hours worked,18880
+E09000014,Haringey,Part-time: 15 hours or less worked,16523
+E09000014,Haringey,Part-time: 16 to 30 hours worked,26943
+E09000014,Haringey,Full-time: 31 to 48 hours worked,74963
+E09000014,Haringey,Full-time: 49 or more hours worked,15952
+E09000015,Harrow,Part-time: 15 hours or less worked,13761
+E09000015,Harrow,Part-time: 16 to 30 hours worked,22778
+E09000015,Harrow,Full-time: 31 to 48 hours worked,73682
+E09000015,Harrow,Full-time: 49 or more hours worked,14816
+E09000016,Havering,Part-time: 15 hours or less worked,12636
+E09000016,Havering,Part-time: 16 to 30 hours worked,22574
+E09000016,Havering,Full-time: 31 to 48 hours worked,76496
+E09000016,Havering,Full-time: 49 or more hours worked,13075
+E09000017,Hillingdon,Part-time: 15 hours or less worked,14778
+E09000017,Hillingdon,Part-time: 16 to 30 hours worked,25736
+E09000017,Hillingdon,Full-time: 31 to 48 hours worked,87797
+E09000017,Hillingdon,Full-time: 49 or more hours worked,14492
+E09000018,Hounslow,Part-time: 15 hours or less worked,15624
+E09000018,Hounslow,Part-time: 16 to 30 hours worked,24697
+E09000018,Hounslow,Full-time: 31 to 48 hours worked,84207
+E09000018,Hounslow,Full-time: 49 or more hours worked,14272
+E09000019,Islington,Part-time: 15 hours or less worked,11025
+E09000019,Islington,Part-time: 16 to 30 hours worked,15871
+E09000019,Islington,Full-time: 31 to 48 hours worked,67481
+E09000019,Islington,Full-time: 49 or more hours worked,20593
+E09000020,Kensington and Chelsea,Part-time: 15 hours or less worked,7610
+E09000020,Kensington and Chelsea,Part-time: 16 to 30 hours worked,9995
+E09000020,Kensington and Chelsea,Full-time: 31 to 48 hours worked,33155
+E09000020,Kensington and Chelsea,Full-time: 49 or more hours worked,18680
+E09000021,Kingston upon Thames,Part-time: 15 hours or less worked,9292
+E09000021,Kingston upon Thames,Part-time: 16 to 30 hours worked,14343
+E09000021,Kingston upon Thames,Full-time: 31 to 48 hours worked,49806
+E09000021,Kingston upon Thames,Full-time: 49 or more hours worked,10707
+E09000022,Lambeth,Part-time: 15 hours or less worked,16700
+E09000022,Lambeth,Part-time: 16 to 30 hours worked,25925
+E09000022,Lambeth,Full-time: 31 to 48 hours worked,112911
+E09000022,Lambeth,Full-time: 49 or more hours worked,27282
+E09000023,Lewisham,Part-time: 15 hours or less worked,16083
+E09000023,Lewisham,Part-time: 16 to 30 hours worked,28089
+E09000023,Lewisham,Full-time: 31 to 48 hours worked,94030
+E09000023,Lewisham,Full-time: 49 or more hours worked,17510
+E09000024,Merton,Part-time: 15 hours or less worked,11570
+E09000024,Merton,Part-time: 16 to 30 hours worked,18726
+E09000024,Merton,Full-time: 31 to 48 hours worked,66670
+E09000024,Merton,Full-time: 49 or more hours worked,15099
+E09000025,Newham,Part-time: 15 hours or less worked,18670
+E09000025,Newham,Part-time: 16 to 30 hours worked,34028
+E09000025,Newham,Full-time: 31 to 48 hours worked,94325
+E09000025,Newham,Full-time: 49 or more hours worked,16422
+E09000026,Redbridge,Part-time: 15 hours or less worked,16639
+E09000026,Redbridge,Part-time: 16 to 30 hours worked,28204
+E09000026,Redbridge,Full-time: 31 to 48 hours worked,81723
+E09000026,Redbridge,Full-time: 49 or more hours worked,15062
+E09000027,Richmond upon Thames,Part-time: 15 hours or less worked,10880
+E09000027,Richmond upon Thames,Part-time: 16 to 30 hours worked,14990
+E09000027,Richmond upon Thames,Full-time: 31 to 48 hours worked,54047
+E09000027,Richmond upon Thames,Full-time: 49 or more hours worked,17648
+E09000028,Southwark,Part-time: 15 hours or less worked,16582
+E09000028,Southwark,Part-time: 16 to 30 hours worked,25386
+E09000028,Southwark,Full-time: 31 to 48 hours worked,99680
+E09000028,Southwark,Full-time: 49 or more hours worked,25300
+E09000029,Sutton,Part-time: 15 hours or less worked,10702
+E09000029,Sutton,Part-time: 16 to 30 hours worked,18501
+E09000029,Sutton,Full-time: 31 to 48 hours worked,64135
+E09000029,Sutton,Full-time: 49 or more hours worked,10888
+E09000030,Tower Hamlets,Part-time: 15 hours or less worked,15607
+E09000030,Tower Hamlets,Part-time: 16 to 30 hours worked,25230
+E09000030,Tower Hamlets,Full-time: 31 to 48 hours worked,90675
+E09000030,Tower Hamlets,Full-time: 49 or more hours worked,23880
+E09000031,Waltham Forest,Part-time: 15 hours or less worked,15075
+E09000031,Waltham Forest,Part-time: 16 to 30 hours worked,25668
+E09000031,Waltham Forest,Full-time: 31 to 48 hours worked,84719
+E09000031,Waltham Forest,Full-time: 49 or more hours worked,14909
+E09000032,Wandsworth,Part-time: 15 hours or less worked,15478
+E09000032,Wandsworth,Part-time: 16 to 30 hours worked,23170
+E09000032,Wandsworth,Full-time: 31 to 48 hours worked,115966
+E09000032,Wandsworth,Full-time: 49 or more hours worked,35828
+E09000033,Westminster,Part-time: 15 hours or less worked,10669
+E09000033,Westminster,Part-time: 16 to 30 hours worked,13969
+E09000033,Westminster,Full-time: 31 to 48 hours worked,51876
+E09000033,Westminster,Full-time: 49 or more hours worked,25228
