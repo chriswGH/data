@@ -1,0 +1,91 @@
+areaCode,areaName,tenureType,value
+E09000001,City of London 2011,Owned,1855
+E09000001,City of London 2011,Shared ownership,13
+E09000001,City of London 2011,Social rented,725
+E09000001,City of London 2011,Private rented,1573
+E09000001,City of London 2011,Lives rent free,219
+E09000002,Barking and Dagenham 2011,Owned,32324
+E09000002,Barking and Dagenham 2011,Shared ownership,906
+E09000002,Barking and Dagenham 2011,Social rented,23459
+E09000002,Barking and Dagenham 2011,Private rented,12328
+E09000002,Barking and Dagenham 2011,Lives rent free,664
+E09000003,Barnet 2011,Owned,78350
+E09000003,Barnet 2011,Shared ownership,1191
+E09000003,Barnet 2011,Social rented,19334
+E09000003,Barnet 2011,Private rented,34854
+E09000003,Barnet 2011,Lives rent free,2187
+E09000006,Bromley 2011,Owned,92785
+E09000006,Bromley 2011,Shared ownership,1036
+E09000006,Bromley 2011,Social rented,18425
+E09000006,Bromley 2011,Private rented,17393
+E09000006,Bromley 2011,Lives rent free,1223
+E09000008,Croydon 2011,Owned,85230
+E09000008,Croydon 2011,Shared ownership,1855
+E09000008,Croydon 2011,Social rented,25887
+E09000008,Croydon 2011,Private rented,30472
+E09000008,Croydon 2011,Lives rent free,1566
+E09000010,Enfield 2011,Owned,69462
+E09000010,Enfield 2011,Shared ownership,1087
+E09000010,Enfield 2011,Social rented,21073
+E09000010,Enfield 2011,Private rented,26591
+E09000010,Enfield 2011,Lives rent free,1703
+E09000016,Havering 2011,Owned,71698
+E09000016,Havering 2011,Shared ownership,586
+E09000016,Havering 2011,Social rented,13799
+E09000016,Havering 2011,Private rented,10337
+E09000016,Havering 2011,Lives rent free,779
+E09000017,Hillingdon 2011,Owned,63011
+E09000017,Hillingdon 2011,Shared ownership,1280
+E09000017,Hillingdon 2011,Social rented,16752
+E09000017,Hillingdon 2011,Private rented,18141
+E09000017,Hillingdon 2011,Lives rent free,1030
+E09000033,Westminster 2011,Owned,32287
+E09000033,Westminster 2011,Shared ownership,885
+E09000033,Westminster 2011,Social rented,27348
+E09000033,Westminster 2011,Private rented,41949
+E09000033,Westminster 2011,Lives rent free,3303
+E09000001,City of London 2021,Owned,1794
+E09000001,City of London 2021,Shared ownership,12
+E09000001,City of London 2021,Social rented,1239
+E09000001,City of London 2021,Private rented,2373
+E09000001,City of London 2021,Lives rent free,5
+E09000002,Barking and Dagenham 2021,Owned,31319
+E09000002,Barking and Dagenham 2021,Shared ownership,23273
+E09000002,Barking and Dagenham 2021,Social rented,17990
+E09000002,Barking and Dagenham 2021,Private rented,1274
+E09000002,Barking and Dagenham 2021,Lives rent free,146
+E09000003,Barnet 2021,Owned,78307
+E09000003,Barnet 2021,Shared ownership,20034
+E09000003,Barnet 2021,Social rented,48705
+E09000003,Barnet 2021,Private rented,1633
+E09000003,Barnet 2021,Lives rent free,138
+E09000006,Bromley 2021,Owned,93028
+E09000006,Bromley 2021,Shared ownership,17926
+E09000006,Bromley 2021,Social rented,23661
+E09000006,Bromley 2021,Private rented,1166
+E09000006,Bromley 2021,Lives rent free,47
+E09000008,Croydon 2021,Owned,83667
+E09000008,Croydon 2021,Shared ownership,27423
+E09000008,Croydon 2021,Social rented,39441
+E09000008,Croydon 2021,Private rented,2183
+E09000008,Croydon 2021,Lives rent free,283
+E09000010,Enfield 2021,Owned,63347
+E09000010,Enfield 2021,Shared ownership,20573
+E09000010,Enfield 2021,Social rented,35388
+E09000010,Enfield 2021,Private rented,1319
+E09000010,Enfield 2021,Lives rent free,296
+E09000016,Havering 2021,Owned,70379
+E09000016,Havering 2021,Shared ownership,13807
+E09000016,Havering 2021,Social rented,16019
+E09000016,Havering 2021,Private rented,976
+E09000016,Havering 2021,Lives rent free,95
+E09000017,Hillingdon 2021,Owned,61831
+E09000017,Hillingdon 2021,Shared ownership,17613
+E09000017,Hillingdon 2021,Social rented,28276
+E09000017,Hillingdon 2021,Private rented,1373
+E09000017,Hillingdon 2021,Lives rent free,135
+E09000033,Westminster 2021,Owned,25962
+E09000033,Westminster 2021,Shared ownership,26810
+E09000033,Westminster 2021,Social rented,41065
+E09000033,Westminster 2021,Private rented,695
+E09000033,Westminster 2021,Lives rent free,284
