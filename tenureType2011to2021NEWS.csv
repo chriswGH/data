@@ -1,4 +1,4 @@
-areaCode,areaName,tenureType,occupiers
+areaCode,borough,tenureType,occupiers
 E09000001,City of London 2011,Owned,1855
 E09000001,City of London 2011,Shared ownership,13
 E09000001,City of London 2011,Social rented,725
